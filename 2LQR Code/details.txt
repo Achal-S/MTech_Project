@@ -1,0 +1,8 @@
+Very quickly got transition from BD to Core and established himself as approachable individual for any issue fixes within team and across tower. 
+Has an attitude to break any issue in detail and many time drive team member to fix those quickly.
+Nice attitude in taking responsibilities and closing any work assigned.
+Helped in end to end integration from adapter layer to Individual Process .
+Quickly analyzed gaps in adapter for initial discussion with Client and made changes to run demo scenario for sprint 9.
+Took Orchestrator error handling task in mid of sprint and quickly fixed all issued.
+Very quick in task analysis and code fixes.
+
